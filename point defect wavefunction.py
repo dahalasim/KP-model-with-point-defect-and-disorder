@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 nb = 9
 v0 = 200
-v0_wf = 100
+v0_wf = 200
 l = nb
 b = 1/6
 x_r = [-1/2 + r for r in range(1, nb+1)]
